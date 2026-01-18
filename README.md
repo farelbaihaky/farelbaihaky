@@ -1,5 +1,5 @@
 # Hi there, I'm Farel Baihaky! 👋
-### 🔍 Quality Assurance Tester | Manual & Automation
+### 🔍 Quality Assurance | Manual & Automation
 
 I am a detail-oriented QA Tester dedicated to ensuring software quality through a blend of rigorous **Manual Testing** and efficient **Test Automation**. I specialize in identifying bugs, creating comprehensive test scenarios, and maintaining stability in E-Commerce environments.
 
