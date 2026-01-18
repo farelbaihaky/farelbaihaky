@@ -5,7 +5,7 @@ I am a detail-oriented QA Tester dedicated to ensuring software quality through 
 
 - 🔭 I’m currently working on: **Web Automation & Mobile App Testing**
 - 🐞 I’m looking for: **Bugs, Edge Cases, and Usability Issues**
-- 🌱 I’m currently learning: **Advanced API Automation & Performance Testing**
+- 🌱 I’m currently learning: **Advanced Automation & Performance Testing**
 - ⚡ Fun fact: I believe that "Zero Bug" is a myth, but "Zero Critical Bug" is a target.
 
 ---
@@ -25,13 +25,6 @@ The arsenal I use to break code (so users don't have to):
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
----
-
-### 📊 GitHub Activity
-My coding consistency:
-
-![GitHub Streak](https://streak-stats.demolab.com?user=farelbaihaky&theme=dark&hide_border=true)
 
 ---
 
