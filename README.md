@@ -25,7 +25,11 @@ The arsenal I use to break code (so users don't have to):
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adikazahran/adikazahran/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adikazahran/adikazahran/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adikazahran/adikazahran/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ### 🔗 Connect with Me
