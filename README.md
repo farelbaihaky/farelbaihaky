@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9oNGFqeWw4YjV4Y3Z5dG5wMnR5eW5wZ3Z5eG5wZ3Z5eG5wZ3Z5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LgwlX9b4Q7Dk8z6Z7E/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   
   # Hi there, I'm Farel Baihaky! 👋
 
@@ -15,9 +15,7 @@
 <br>
 
 <div align="center">
-  
   🔭 **Current Focus:** Web Automation & Mobile App Testing &nbsp;|&nbsp; 🌱 **Learning:** Performance Testing (JMeter/K6)
-
 </div>
 
 ---
@@ -43,9 +41,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farelbaihaky/farelbaihaky/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farelbaihaky/farelbaihaky/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farelbaihaky/farelbaihaky/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farelbaihaky/farelbaihaky/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farelbaihaky/farelbaihaky/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/farelbaihaky/farelbaihaky/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
