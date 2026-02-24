@@ -31,19 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farelbaihaky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170px" alt="Farel's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farelbaihaky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170px" alt="Farel's Top Langs" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farelbaihaky&theme=tokyonight&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="100%" alt="Activity Graph" />
-</div>
----
-
 ### 🔗 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/farelbaihaky/" target="_blank">
